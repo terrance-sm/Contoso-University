@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Contoso_University.DAL
+namespace ContosoUniversity.DAL
 {
     using Models;
 

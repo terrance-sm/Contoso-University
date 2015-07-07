@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace Contoso_University
+namespace ContosoUniversity
 {
     public class BundleConfig
     {
